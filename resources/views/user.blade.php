@@ -57,7 +57,7 @@
 <script>
  for ( const R1 of document.getElementsByClassName('r1')){
 
-  R1.addEventListener("click",buttonClick()); //function ButtomnClick()
+  R1.addEventListener("click",buttonClick()); //function ButtomnClick()11
  }
  for ( const R2 of document.getElementsByClassName('r2')){
 
